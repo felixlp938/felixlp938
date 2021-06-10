@@ -1,4 +1,4 @@
-print("Taschenrechner 2.0 - COPYRIGHT FELIX")
+print("Taschenrechner Beta 2.0 - PROGRAMMIERT VON FELIX")
 
 print("Als 1. Option ist die Addition, dann Subtraktion, dann Multiplikation, und zum Schluss die Division.")
 print("WENN MAN EINE OPTION SKIPPEN WILL, MUSS MAN EINE 0 (NULL) EINGEBEN.")
