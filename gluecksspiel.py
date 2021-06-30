@@ -11,3 +11,5 @@ if str(eing) == str(rand):
     print("Du hast gewonnen")
 else: 
     print("Du hast leider verloren oder eine falsche Zahl eingegeben :(")
+
+input("Drücke Enter zum beenden")
