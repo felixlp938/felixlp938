@@ -1,0 +1,35 @@
+--- Spielesammlung by FelixLP ---
+ #### CHANGELOG ####
+
+Version: ALPHA
+--
+Launcher:
+
+GRUNDLEGENDES:
+	-Launcher wurde geadded und kann nun 4 Slots starten
+
+	-Aniamtionen wurden geadded
+
+SPIELE:
+	-Orakel hinzugefügt
+
+	-Glücksspiel hinzugefügt
+
+Zukünftige Buttons:
+	"Comming soon ...." - Buttons wurden hinzugefügt
+		dieser Button dient für neure, noch kommende Spiele
+
+----
+
+Orakel (Alpha 1.0):
+	-Zuffalszahlen wurden angepasst
+	-2. Modie Hinzugefügt
+
+Glücksspiel (Beta 2.0):
+	-Gamemechanik wurde geändert / angepasst
+	 (muss jetzt nicht mehr auf "C" liegen)
+	-Kleinere Bug-Fixes:
+		-Maximieren-Button in der Fensterleise deaktiviert
+		-Fenster lässt sich jetzt nicht mehr mit der Maus vergrößern / verkleinern
+		 (aufgrund von Anzeigebugs)
+		-Fenstertitel wurden geändert / erstellt
