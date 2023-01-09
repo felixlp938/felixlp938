@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Twitter: [@938Felixlp](https://twitter.com/938Felixlp)
+- 📫 How to reach me: (The best is Twitter) Twitter: [@938Felixlp](https://twitter.com/938Felixlp)
+- 🌱 I’m currently learning [C#](https://dot.net)
 
 <!--
-**felixlp938/felixlp938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
