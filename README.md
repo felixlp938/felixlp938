@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Twitter: [@938Felixlp](https://twitter.com/938Felixlp){target="_blank"}
+- 📫 How to reach me: Twitter: [@938Felixlp](https://twitter.com/938Felixlp)
 
 <!--
 **felixlp938/felixlp938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
