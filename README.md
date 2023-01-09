@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 - 📫 How to reach me: (The best is Twitter) Twitter: [@938Felixlp](https://twitter.com/938Felixlp)
-- 🌱 I’m currently learning [C#](https://dot.net)
+- 🌱 I’m currently learning: [C#](https://dot.net)
 
 <!--
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
