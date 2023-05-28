@@ -104,6 +104,5 @@
         "type": "prompt"
       }
     ],
-    "console_title_template": "{{ .Shell }}",
     "version": 2
   }
