@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: (The best is Twitter) Twitter: [@938Felixlp](https://twitter.com/938Felixlp)
+- 📫 How to reach me: (The best is X) X: [@938Felixlp](https://felix-lets-plays.de/Home/Twitter)
 - 🌱 I’m currently learning: [C#](https://dot.net)
 
 
