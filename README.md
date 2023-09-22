@@ -13,4 +13,5 @@ Check my [linktree](https://felix-lets-plays.de/home/linktree)
 -->
 
 ![FelixLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixlp938&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938)
