@@ -12,4 +12,4 @@ Check my [linktree](https://felix-lets-plays.de/home/linktree)
 - ⚡ Fun fact: ...
 -->
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938&theme=dark&layout=donut)
