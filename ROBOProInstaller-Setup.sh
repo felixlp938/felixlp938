@@ -38,3 +38,7 @@ chmod a+x ./ROBOProCoding.AppImage
 
 #launch app
 ./ROBOProCoding.AppImage
+
+
+#delete file
+rm ROBOProCoding.AppImage
