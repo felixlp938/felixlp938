@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: JAVA
 <!-- - 🔭 I’m currently working on the ***beer*** application with [@CrazyBruce2206](https://github.com/CrazyBruce2206) -->
 
-Check my [linktree](https://felix-lets-plays.de/home/linktree)
+Check my [homepage](https://felix-lets-plays.de)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
