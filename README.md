@@ -1,6 +1,6 @@
 # Hello world!
 
-- 📫 How to reach me: (The best is X) X: [@938Felixlp](https://felix-lets-plays.de/Home/Twitter)
+- 📫 How to reach me: (The best is X) X: [@938Felixlp](https://felix-lets-plays.de/s?id=twitter)
 - 🌱 I’m currently learning: JAVA
 <!-- - 🔭 I’m currently working on the ***beer*** application with [@CrazyBruce2206](https://github.com/CrazyBruce2206) -->
 
