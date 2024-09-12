@@ -1,8 +1,6 @@
 # Hello world!
 
-- 📫 How to reach me: (The best is X) X: [@938Felixlp](https://felix-lets-plays.de/s?id=twitter)
-<!-- - 🌱 I’m currently learning: JAVA -->
-<!-- - 🔭 I’m currently working on the ***beer*** application with [@CrazyBruce2206](https://github.com/CrazyBruce2206) -->
+- 📫 How to reach me: (The best is X) X: [@938Felixlp](https://x.com/938felixlp)
 
 Check my [homepage](https://felix-lets-plays.de)
 <!--
@@ -12,4 +10,4 @@ Check my [homepage](https://felix-lets-plays.de)
 - ⚡ Fun fact: ...
 -->
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938&theme=dark&layout=donut)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938&layout=donut)
