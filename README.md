@@ -1,8 +1,8 @@
-# Hello world!
+# Hello!
 
-- 📫 How to reach me: (The best is X) X: [@938Felixlp](https://x.com/938felixlp)
+<!-- - 📫 How to reach me: (The best is X) X: [@938Felixlp](https://x.com/938felixlp)
 
-Check my [homepage](https://felix-lets-plays.de)
+<!-- Check my [homepage](https://felix-lets-plays.de)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,4 +10,4 @@ Check my [homepage](https://felix-lets-plays.de)
 - ⚡ Fun fact: ...
 -->
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938&layout=donut)
+<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=felixlp938&layout=donut)
